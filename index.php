@@ -22,6 +22,7 @@ include('bootstrap.php');
         <div class="results">Ждем ответа</div>
 
         <div id="par1"><img src="photo/396c0b1d7832050ba7216c2a1b46df8d.jpg">Меняется шрифт</div>
+        <h1>Добро пожаловать в МОЙ магазин</h1>
     
     <script>
 //    var fruits = ["Banana", "Orang", "Cherry", "Apple"];
